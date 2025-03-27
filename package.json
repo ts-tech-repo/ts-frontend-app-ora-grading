@@ -99,7 +99,8 @@
     "http-proxy-middleware": "3.0.3",
     "body-parser": "1.20.3",
     "json5" : "2.2.3",
-    "unset-value" : "2.0.1"
+    "unset-value" : "2.0.1",
+    "debug" : "4.4.0"
 
   }
 }
