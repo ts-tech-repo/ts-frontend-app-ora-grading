@@ -6,7 +6,7 @@ import {
   ActionRow,
   AlertModal,
   Button,
-} from '@edx/paragon';
+} from 'ts-paragon';
 
 import messages from './messages';
 

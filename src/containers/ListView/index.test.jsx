@@ -34,7 +34,7 @@ jest.mock('data/redux', () => ({
   },
 }));
 
-jest.mock('@edx/paragon', () => ({
+jest.mock('ts-paragon', () => ({
   Container: 'Container',
   Spinner: 'Spinner',
 }));

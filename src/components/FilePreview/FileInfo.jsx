@@ -5,8 +5,8 @@ import {
   Button,
   OverlayTrigger,
   Popover,
-} from '@edx/paragon';
-import { InfoOutline } from '@edx/paragon/icons';
+} from 'ts-paragon';
+import { InfoOutline } from 'ts-paragon/icons';
 import { FormattedMessage } from '@edx/frontend-platform/i18n';
 import { nullMethod } from 'hooks';
 import messages from './messages';
