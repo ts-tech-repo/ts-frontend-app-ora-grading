@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 
-import { Popover } from '@edx/paragon';
+import { Popover } from 'ts-paragon';
 
 import FileInfo from './FileInfo';
 

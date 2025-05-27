@@ -4,8 +4,8 @@ import PropTypes from 'prop-types';
 import { pdfjs, Document, Page } from 'react-pdf';
 import {
   Icon, Form, ActionRow, IconButton,
-} from '@edx/paragon';
-import { ChevronLeft, ChevronRight } from '@edx/paragon/icons';
+} from 'ts-paragon';
+import { ChevronLeft, ChevronRight } from 'ts-paragon/icons';
 import pdfjsWorker from 'react-pdf/dist/esm/pdf.worker.entry';
 
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
