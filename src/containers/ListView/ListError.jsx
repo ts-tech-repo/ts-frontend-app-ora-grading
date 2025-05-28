@@ -6,8 +6,8 @@ import {
   Alert,
   Button,
   Hyperlink,
-} from '@edx/paragon';
-import { Info } from '@edx/paragon/icons';
+} from 'ts-paragon';
+import { Info } from 'ts-paragon/icons';
 import { FormattedMessage } from '@edx/frontend-platform/i18n';
 
 import urls from 'data/services/lms/urls';

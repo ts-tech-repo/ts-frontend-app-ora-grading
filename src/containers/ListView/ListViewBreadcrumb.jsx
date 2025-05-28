@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 
-import { ArrowBack, Launch } from '@edx/paragon/icons';
-import { Hyperlink, Icon } from '@edx/paragon';
+import { ArrowBack, Launch } from 'ts-paragon/icons';
+import { Hyperlink, Icon } from 'ts-paragon';
 import { FormattedMessage } from '@edx/frontend-platform/i18n';
 
 import { selectors } from 'data/redux';
